@@ -180,7 +180,7 @@ body{
     width: 60%;
 }
 /* section 5 */
-.section5{
+/* .section5{
     margin-top: 4rem;
 }
 .section5-h1{
@@ -239,10 +239,10 @@ body{
     color: white;
     font-size: 15px;
     border-radius: 8px;
-}
+} */
 /* section 6 started */
 .sec6{
-    margin:50px 250px;
+    margin:50px 50px 50px 150px;
 }
 .sec6-parent-div{
     display: flex;
