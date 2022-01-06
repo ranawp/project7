@@ -179,68 +179,7 @@ body{
     left: 183px;
     width: 60%;
 }
-/* section 5 */
-/* .section5{
-    margin-top: 4rem;
-}
-.section5-h1{
-    text-align: center;
-    font-weight: 900;
-    font-size: 40px;
-}
-.section5-h1-color{
-    color: #ee7a06;
-}
 
-.secion5-parent-div{
-    display: flex;
-    width: 70%;
-    margin: auto;
-}
-
-.section5-image-parent{
-    position: relative;
-    top: 0;
-    left: 0;
-}
-.sec5-img1{
-    position: relative;
-    top: 0;
-    left: 0;
-    z-index: 1;
-    width: 300px;
-}
-.sec5-img2{
-    position: absolute;
-    left: 5px;
-    width: 22%;
-}
-.sec5-img3{
-    position: absolute;
-    left:12px;
-    bottom: 18px;
-    width: 15%;
-}
-.sec5-img4{
-    position: absolute;
-    right: 10px;
-    bottom:120px;
-    width: 20%;    
-}
-.sec5-stay-safe{
-    margin: auto;
-    position: center;
-    margin-left: 130px;
-}
-.sec5-btn{
-    padding: 10px 20px;
-    background-color: #FF5959;
-    text-decoration: none;
-    color: white;
-    font-size: 15px;
-    border-radius: 8px;
-} */
-/* section 6 started */
 .sec6{
     margin:50px 50px 50px 150px;
 }
