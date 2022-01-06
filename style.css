@@ -2,16 +2,21 @@ body{
     margin: 0;
     padding: 0;
 }
+
+.flexible-container{
+    display: flex;
+}
+
+.section-width{
+    width:80%;
+    margin: auto;
+}
+
 /* section1 started */
 .section1{
     margin-left:120px;
     margin-top: 50px;
-}
-.half-width{
-    width: 100%;
-}
-.parent1{
-    display: flex;
+  
 }
 .vertical-align{
     height: 120px;
@@ -52,8 +57,6 @@ body{
     margin-top: 60px;
 }
 .section2-parrent-div{
-    display: flex;
-    width: 80%;
     text-align: justify;
     margin: 0 auto;
 }
@@ -106,15 +109,8 @@ body{
 
 /* section3 started */
 .section3{
-    margin:auto;
-    width: 80%;
     margin-top: 80px;
     
-}
-
-.section3-parrent-div{
-    display: flex;
-    margin:0 auto;
 }
 
 .sec3-parrent-img{
@@ -151,9 +147,6 @@ body{
 
 /* section4 started */
 .section4-parrent-div{
-    display: flex;
-    margin:auto;
-    width: 80%;
     margin-top: 100px;
 }
 
@@ -179,7 +172,7 @@ body{
     left: 183px;
     width: 60%;
 }
-/* section 5 */
+/* section 5 started */
 .section5{
     margin-top: 4rem;
 }
@@ -191,13 +184,6 @@ body{
 .section5-h1-color{
     color: #ee7a06;
 }
-
-.secion5-parent-div{
-    display: flex;
-    width: 70%;
-    margin: auto;
-}
-
 .section5-image-parent{
     position: relative;
     top: 0;
@@ -245,18 +231,12 @@ body{
 .sec6{
     margin:50px 50px 50px 150px;
 }
-.sec6-parent-div{
-    display: flex;
-   
-}
+
 .sec6-form a{
     margin-top: 10px;
 }
 .sec6-right-div{
-    margin: auto ;
     margin-left:130px ;
-    
-    
 }
 .sec6-form{
     width: 30%;
